@@ -62,7 +62,7 @@ define(['pipAPI', 'https://BenedettaRombola.github.io/codice2.js'], function(API
 			},
 
   base_url : {//Where are your images at?
-    image : 'C:\Users\utente\Desktop\TESI\Immagini IAT\Test' 
+    image : 'https://BenedettaRombola.github.io/image/' 
   }}
   );
   });
